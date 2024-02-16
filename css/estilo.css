@@ -168,7 +168,7 @@ body {
     left: 6%;
     top: 60%;
     position: absolute;
-    /*box-shadow: 1px 40px 80px rgb(0, 0, 0);*/
+    box-shadow: 1px 40px 80px rgb(255, 255, 255);
     background-color: rgba(0, 0, 0, 0);
     color: black;
 }
@@ -243,19 +243,19 @@ body {
 }
 
 #polo h1 {
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     text-align: center;
 
 }
 
 #jetta h1 {
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     text-align: center;
 
 }
 
 #golf h1 {
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     text-align: center;
 
 }
