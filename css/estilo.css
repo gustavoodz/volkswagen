@@ -154,6 +154,10 @@ body {
     color: black;
 }
 
+a {
+    color: aliceblue;
+}
+
 #quinto {
     /*border: 5px solid rgb(0, 0, 0);*/
     height: 222px;
