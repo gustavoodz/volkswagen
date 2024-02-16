@@ -182,7 +182,7 @@ body {
     position: absolute;
     background-image: url(../img/jeta5.jpg@!thumbnail);
     /*background-color: brown;*/
-    box-shadow: 1px 30px 60px rgb(255, 255, 255);
+    box-shadow: 1px 30px 60px rgb(0, 89, 255);
 }
 
 #jetta {
@@ -205,7 +205,7 @@ body {
     top: 20%;
     position: absolute;
     background-image: url(../img/golf.jpg);
-    box-shadow: 1px 30px 60px rgb(255, 255, 255);
+    box-shadow: 1px 30px 60px rgb(0, 89, 255);
 }
 
 #golf {
