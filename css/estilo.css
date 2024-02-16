@@ -36,7 +36,7 @@ body {
 
 #primeiro h1 {
     text-align: center;
-    color: rgb(22, 50, 126);
+    color: rgb(0, 89, 255);
 }
 
 #gu {
@@ -80,7 +80,7 @@ body {
 }
 
 .campos {
-    color: rgb(0, 110, 255);
+    color: rgb(0, 89, 255);
 }
 
 #em {
@@ -106,7 +106,7 @@ body {
 }
 
 .ofertas {
-    color: rgb(22, 50, 126);
+    color: rgb(0, 89, 255);
 }
 
 #segundo {
@@ -263,7 +263,7 @@ body {
 
 
 #contas {
-    color: black;
+    color: rgb(0, 89, 255);
     text-align: center;
 }   
 
