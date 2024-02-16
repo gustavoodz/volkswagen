@@ -50,7 +50,7 @@ body {
 
 #gu h3 {
     text-align: center;
-    color: rgb(22, 50, 126);
+    color: rgb(255, 255, 255);
 }
 
 #gu h2 a {
@@ -136,7 +136,7 @@ body {
     left: 38%;
     top: 17%;
     position: absolute;
-    color: rgb(22, 50, 126);
+    color: rgb(255, 255, 255);
 }
 
 #quarto {
