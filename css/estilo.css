@@ -169,7 +169,7 @@ body {
     top: 60%;
     position: absolute;
     /*box-shadow: 1px 40px 80px rgb(255, 255, 255);*/
-    background-color: rgba(0, 0, 0, 0);
+    /*background-color: rgba(0, 0, 0, 0);*/
     color: black;
 }
 
@@ -181,7 +181,7 @@ body {
     top: 20%;
     position: absolute;
     background-image: url(../img/jeta5.jpg@!thumbnail);
-    background-color: brown;
+    /*background-color: brown;*/
     box-shadow: 1px 30px 60px rgb(255, 255, 255);
 }
 
@@ -216,7 +216,7 @@ body {
     top: 60%;
     position: absolute;
     /*box-shadow: 1px 40px 80px rgb(0, 0, 0);*/
-    background-color: rgba(0, 0, 0, 0);
+    /*background-color: rgba(0, 0, 0, 0);*/
     color: black;
 }
 
@@ -303,4 +303,8 @@ li {
 }
 h1 {
     color: rgb(255, 255, 255);
+}
+
+hr {
+    color: aqua;
 }
