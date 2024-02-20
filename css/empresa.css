@@ -2,14 +2,14 @@ body {
     /*background-image: url(../img/R.jfif);*/
     width: 950px;
     height: 1500;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
  }
  
  #principal{
      
      width: 1560px;
      height: 180px;
-     background-color: rgba(13, 136, 184, 0.295);
+     /*background-color: rgba(13, 136, 184, 0.295);*/
      position:relative;
  }
  
@@ -36,7 +36,7 @@ body {
  
  #primeiro h1 {
      text-align: center;
-     color: rgb(22, 50, 126);
+     color: rgb(0, 89, 255);
  }
  
  #gu {
@@ -50,11 +50,11 @@ body {
  
  #gu h3 {
      text-align: center;
-     color: rgb(22, 50, 126);
+     color: rgb(0, 89, 255);
  }
  
  #gu h2 a {
-     color: rgb(22, 50, 126);
+     color: rgb(0, 89, 255);
  }
  
  #odizio {
@@ -93,7 +93,7 @@ body {
  }
  
  #em h1 {
-     color: rgb(22, 50, 126);
+     color: rgb(0, 89, 255);
  }
  
  #lugar {
@@ -106,7 +106,7 @@ body {
  }
  
  .ofertas {
-     color: rgb(22, 50, 126);
+     color: rgb(0, 89, 255);
  }
  
  #segundo {

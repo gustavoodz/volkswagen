@@ -9,9 +9,9 @@ body {
     
     width: 1560px;
     height: 180px;
-    background-color: rgba(68, 68, 68, 0.034);
+    /*background-color: rgba(3, 3, 3, 0.034);*/
     position:relative;
-    box-shadow: 1px 30px 60px rgb(0, 89, 255);
+    /*box-shadow: 1px 30px 60px rgb(0, 89, 255);*/
 }
 
 
