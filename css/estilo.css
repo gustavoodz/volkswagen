@@ -2,7 +2,8 @@ body {
    /*background-image: url(../img/R.jfif);*/
    width: 950px;
    height: 1500;
-   background-color: rgb(0, 0, 0);
+   /*background-color: rgb(83, 83, 83);*/
+   background-color: rgb(83, 83, 83);
 }
 
 #principal{
@@ -171,9 +172,14 @@ a {
     box-shadow: 1px 30px 60px rgb(0, 89, 255);
 }
 
+    #quinto:hover {
+        transform: scale(1.1);
+    transform: all 0.2s;
+    cursor: pointer;
+    }
+
 #polo {
-    border: ;
-    height: 100px;
+    height:100px;
     width: 360px;
     left: 6%;
     top: 60%;
@@ -181,6 +187,12 @@ a {
     /*box-shadow: 1px 40px 80px rgb(255, 255, 255);*/
     /*background-color: rgba(0, 0, 0, 0);*/
     color: black;
+}
+
+#polo:hover {
+    transform: scale(1.1);
+    transform: all 0.2s;
+    cursor: pointer;
 }
 
 #sexto {
@@ -195,9 +207,14 @@ a {
     box-shadow: 1px 30px 60px rgb(0, 89, 255);
 }
 
+#sexto:hover {
+    transform: scale(1.1);
+    transform: all 0.2s;
+    cursor: pointer;
+}
+
 #jetta {
-    border: ;
-    height: 100px;
+    height:100px;
     width: 360px;
     left: 36%;
     top: 60%;
@@ -205,6 +222,12 @@ a {
     /*box-shadow: 1px 40px 80px rgb(0, 0, 0);*/
     background-color: rgba(0, 0, 0, 0);
     color: black;
+}
+
+#jetta:hover {
+    transform: scale(1.1);
+    transform: all 0.2s;
+    cursor: pointer;
 }
 
 #cor {
@@ -218,9 +241,15 @@ a {
     box-shadow: 1px 30px 60px rgb(0, 89, 255);
 }
 
+#cor:hover {
+    transform: scale(1.1);
+    transform: all 0.2s;
+    cursor: pointer;
+
+}
+
 #golf {
-     border: ;
-    height: 100px;
+    height:100px;
     width: 360px;
     left: 66%;
     top: 60%;
@@ -228,6 +257,12 @@ a {
     /*box-shadow: 1px 40px 80px rgb(0, 0, 0);*/
     /*background-color: rgba(0, 0, 0, 0);*/
     color: black;
+}
+
+#golf:hover {
+    transform: scale(1.1);
+    transform: all 0.2s;
+    cursor: pointer;
 }
 
 #gustavo {
@@ -289,6 +324,12 @@ a {
 #menu {
     text-align: center;
     color: aliceblue;
+}
+
+#menu:hover {
+    transform: scale(1.1);
+    transform: all 0.2s;
+    cursor: pointer;
 }
 
 #logo {

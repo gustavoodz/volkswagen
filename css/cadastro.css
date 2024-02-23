@@ -1,0 +1,109 @@
+body {
+    background-image: url(../img/fundo11.jpg!d);
+}
+
+#login {
+    border: 2px solid  rgb(0, 89, 255);
+    border-radius: 20px;
+    width: 600px;
+    height: 600px;
+    top: 15%;
+    position: absolute;
+    left: 30%;
+    background-color: rgb(0, 0, 0);
+    box-shadow: 1px 20px 40px  rgb(0, 89, 255);
+}
+
+#login:hover {
+    transform: scale(1.1);
+    transform: all 0.2s;
+    cursor: pointer;
+}
+
+label {
+    color: aliceblue;
+}
+
+form  {
+    width: 400px;
+    margin: 10px auto;
+}
+
+#direita {
+    text-align: center;
+}
+
+button {
+    background-color: rgb(0, 89, 255);
+    color: black;
+    text-transform: uppercase;
+    border-radius: 5px;
+    border: none;
+    padding: 10px;
+}
+
+h1 {
+    color: rgb(0, 89, 255);
+}
+
+#usuario {
+    width: 420px;
+    height: 30px;
+    text-align: center;
+    background-position: center;
+}
+
+#senha {
+    text-align: center;
+}
+
+#email {
+    text-align: center;
+}
+
+#mensagem {
+    text-align: center;
+}
+
+#msg {
+    width: 420px;
+    height: 150px;
+    text-align: center;
+    background-position: center
+}
+
+img {
+    width: 730px;
+    height: 549px;
+    top: 30%;
+}
+
+#cadastro {
+    /*border: 3px solid aliceblue;*/
+    width: 280px;
+    height: 40px;
+    left: 30%;
+    top: 25%;
+}
+
+#cpf {
+    text-align: center;
+}
+
+p {
+    color: aliceblue;
+}
+a {
+    color: rgb(255, 255, 255);
+}
+
+.h11 {
+    text-align: center;
+    color: rgb(0, 89, 255);
+}
+
+.h11:hover {
+    transform: scale(1.1);
+    transform: all 0.2s;
+    cursor: pointer;
+}

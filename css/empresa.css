@@ -2,7 +2,7 @@ body {
     /*background-image: url(../img/R.jfif);*/
     width: 950px;
     height: 1500;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(83, 83, 83);
  }
  
  #principal{
@@ -136,7 +136,7 @@ body {
      left: 38%;
      top: 17%;
      position: absolute;
-     color: rgb(22, 50, 126);
+     color: rgb(0, 89, 255);
  }
  
  #quarto {
@@ -162,8 +162,7 @@ body {
  }
  
  #polo {
-     border: ;
-     height: 100px;
+     height:100px;
      width: 360px;
      left: 6%;
      top: 60%;
@@ -185,8 +184,7 @@ body {
  }
  
  #jetta {
-     border: ;
-     height: 100px;
+     height:100px;
      width: 360px;
      left: 36%;
      top: 60%;
@@ -207,8 +205,7 @@ body {
  }
  
  #golf {
-      border: ;
-     height: 100px;
+     height:100px;
      width: 360px;
      left: 66%;
      top: 60%;
@@ -224,18 +221,18 @@ body {
      left: 0;
      top: 210%;
      position: absolute;
-     background-color: rgba(13, 136, 184, 0.295);
+     
  }
  
  #menu h1 {
-    color: rgb(22, 50, 126);
+    color: rgb(0, 89, 255);
      text-align: center;
  
  }
 
  #sobre {
      /*border: 3px solid rgb(22, 50, 126);*/
-     width: 1000px;
+     width: 950px;
      height: 500px;
      top: 140%;
      left: 35%;
@@ -244,9 +241,16 @@ body {
      /*box-shadow: 1px 40px 80px rgb(0, 0, 0);
      background-color: rgb(186, 198, 211);*/
  }
+
+ #sobre:hover {
+    transform: scale(1.1);
+    transform: all 0.2s;
+    cursor: pointer;
+}
+ 
  
  #sobre h1 {
-    color: rgb(22, 50, 126);
+    color: rgb(0, 89, 255);
      text-align: center;
      
  }
@@ -276,7 +280,7 @@ body {
  }
  
  
- 
+
  #contas {
      color: black;
      text-align: center;
@@ -284,7 +288,7 @@ body {
  
  a {
      text-decoration:none;
-     color: rgb(15, 30, 71);
+     color: rgb(255, 255, 255);
  }
  #volta {
     
@@ -295,6 +299,13 @@ body {
      text-align: center;
  
  }
+
+ /*#menu:hover {
+    transform: scale(1.1);
+    transform: all 0.2s;
+    cursor: pointer;
+}*/
+ 
  
  #logo {
      width: 100px;
@@ -306,4 +317,12 @@ body {
  header img {
      width: 150px;
      height: 100px;
+ }
+
+ p {
+    color: aliceblue;
+ }
+
+ li {
+    color: rgb(0, 89, 255);
  }

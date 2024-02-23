@@ -2,9 +2,9 @@ body {
     /*background-image: url(../img/R.jfif);*/
     width: 950px;
     height: 1500;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(83, 83, 83);
  }
- 
+
  
  #principal{
      
@@ -15,7 +15,7 @@ body {
      /*box-shadow: 1px 30px 60px rgb(0, 89, 255);*/
  }
  
- 
+
  #cabesario {
      /*border: 5px solid rgb(0, 0, 0);*/
      width: 180px;
@@ -26,6 +26,8 @@ body {
      background-image: url(../img/logo2.png);
      
  }
+
+
  
  #primeiro {
      /*border: 5px solid rgb(0, 0, 0);*/
@@ -102,7 +104,7 @@ body {
      /*border: 5px solid rgb(0, 0, 0);*/
      width: 375px;
      height: 40px;
-     top: 58%;
+     top: 35%;
      left: 71%;
      position: absolute;
  }
@@ -173,10 +175,9 @@ body {
  }
  
  #polo {
-     border: ;
-     height: 100px;
-     width: 360px;
-     left: 6%;
+    height:100px;
+    width: 360px;
+    left: 6%;
      top: 60%;
      position: absolute;
      /*box-shadow: 1px 40px 80px rgb(255, 255, 255);*/
@@ -197,7 +198,7 @@ body {
  }
  
  #jetta {
-     border: ;
+     
      height: 100px;
      width: 360px;
      left: 36%;
@@ -220,8 +221,7 @@ body {
  }
  
  #golf {
-      border: ;
-     height: 100px;
+    height:100px;
      width: 360px;
      left: 66%;
      top: 60%;
@@ -339,8 +339,14 @@ body {
     top: 27%;
     position: absolute;
     left: 55%;
-    background-color: rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.404);
     box-shadow: 1px 20px 40px  rgb(0, 89, 255);
+}
+
+#login:hover {
+    transform: scale(1.1);
+    transform: all 0.2s;
+    cursor: pointer;
 }
 
 label {
@@ -398,7 +404,17 @@ img {
 }
 
 #cadastro {
-    width: 80px;
-    height: 50px;
-    left: 50%;
+    /*border: 3px solid aliceblue;*/
+    width: 280px;
+    height: 40px;
+    left: 30%;
+    top: 25%;
+}
+
+#cpf {
+    text-align: center;
+}
+
+p {
+    color: aliceblue;
 }
