@@ -90,6 +90,15 @@ h2 {
     text-align: center;
 }
 
+#login {
+    border: 2px solid  rgb(255, 0, 0);
+    border-radius: 20px;
+    width: 280px;
+    height: 600px;
+    background-color: rgba(0, 0, 0, 0.404);
+    box-shadow: 1px 20px 40px  rgb(255, 0, 0);
+}
+
 @media screen and (max-width: 600px){
     body {
         font-size: 14px;
